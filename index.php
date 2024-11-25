@@ -9,14 +9,14 @@
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
   <meta name="data-spm" content="a2o4j" />
   <meta name="robots" content="index, follow" />
-  <meta name="og:url" content="https://ojs.undaris.ac.id/public/qris/" />
+  <meta name="og:url" content="https://sdgscenter.unair.ac.id/dosen/" />
   <meta name="og:title" content="SLOT RAFFI AHMAD 88 🪐 Daftar 69 Situs Slot Gacor Server London Resmi Terpercaya Pasti Jackpot" />
   <meta name="og:type" content="product" />
   <meta name="og:description" content="Slot Raffi Ahmad merupakan link resmi daftar dan login 69 situs slot gacor dengan server london memberikan live rtp tinggi gampang dapat scatter hitam maxwin. Slot raffi ahmad 77 juga menyediakan deposit via qris tanpa potongan mulai dari minimal deposit 10ribu saja." />
   <meta name="og:image" content="https://i.postimg.cc/MKS6Rdbw/photo-2024-09-07-09-05-23.jpg" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://i.postimg.cc/K4X9Pnmy/FAV-ICON.png" />
-  <link rel="canonical" href="https://ojs.undaris.ac.id/public/qris/" />
+  <link rel="canonical" href="https://sdgscenter.unair.ac.id/dosen/" />
   <link rel="amphtml" href="https://pauca-katana4d.pages.dev/" />
   <!-- start preload -->
   <link rel="preload" href="https://i.postimg.cc/MKS6Rdbw/photo-2024-09-07-09-05-23.jpg" as="image" />
@@ -637,7 +637,7 @@
 </div>
 
   <script type="application/ld+json">
-    {"@type":"Product","@context":"https://schema.org","name":"SLOT RAFFI AHMAD 88 🪐 Daftar 69 Situs Slot Gacor Server London Resmi Terpercaya Pasti Jackpot","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","name":"Samsung","url":"https://ojs.undaris.ac.id/public/qris/"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"Slot Raffi Ahmad merupakan link resmi daftar dan login 69 situs slot gacor dengan server london memberikan live rtp tinggi gampang dapat scatter hitam maxwin. Slot raffi ahmad 77 juga menyediakan deposit via qris tanpa potongan mulai dari minimal deposit 10ribu saja.","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+    {"@type":"Product","@context":"https://schema.org","name":"SLOT RAFFI AHMAD 88 🪐 Daftar 69 Situs Slot Gacor Server London Resmi Terpercaya Pasti Jackpot","image":"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg","category":"Televisi & Video","brand":{"@type":"Brand","name":"Samsung","url":"https://sdgscenter.unair.ac.id/dosen/"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"Slot Raffi Ahmad merupakan link resmi daftar dan login 69 situs slot gacor dengan server london memberikan live rtp tinggi gampang dapat scatter hitam maxwin. Slot raffi ahmad 77 juga menyediakan deposit via qris tanpa potongan mulai dari minimal deposit 10ribu saja.","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":""},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
   </script>
   <script type="application/ld+json" data-rh="true">
       {
@@ -647,35 +647,35 @@
           "@type": "ListItem",
           "position": 1,
           "item": {
-            "@id": "https://ojs.undaris.ac.id/public/qris/",
+            "@id": "https://sdgscenter.unair.ac.id/dosen/",
             "name": "Slot"
           }
         }, {
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@id": "https://ojs.undaris.ac.id/public/qris/",
+            "@id": "https://sdgscenter.unair.ac.id/dosen/",
             "name": "Slot Gacor"
           }
         }, {
           "@type": "ListItem",
           "position": 3,
           "item": {
-            "@id": "https://ojs.undaris.ac.id/public/qris/",
+            "@id": "https://sdgscenter.unair.ac.id/dosen/",
             "name": "Slot Gacor 2024"
           }
         }, {
           "@type": "ListItem",
           "position": 4,
           "item": {
-            "@id": "https://ojs.undaris.ac.id/public/qris/",
+            "@id": "https://sdgscenter.unair.ac.id/dosen/",
             "name": "Link Slot Gacor Maxwin"
           }
         }, {
           "@type": "ListItem",
           "position": 5,
           "item": {
-            "@id": "https://ojs.undaris.ac.id/public/qris/",
+            "@id": "https://sdgscenter.unair.ac.id/dosen/",
             "name": "SLOT RAFFI AHMAD 88 🪐 Daftar 69 Situs Slot Gacor Server London Resmi Terpercaya Pasti Jackpot"
           }
         }]
@@ -778,7 +778,7 @@
                     <a class="highlight" target="_blank" href="//yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
                 </div>
                   <div class="top-links-item" id="topActionFeedback">
-                      <a class="highlight" target="_blank" href="https://ojs.undaris.ac.id/public/qris/">Slot Terbaru</a>
+                      <a class="highlight" target="_blank" href="https://sdgscenter.unair.ac.id/dosen/">Slot Terbaru</a>
                   </div>
                     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
                         <span>Slot Resmi</span>
@@ -829,7 +829,7 @@
 </div>
                     </div>
                 <div class="top-links-item" id="topActionSell">
-                    <a class="cyan" href="https://ojs.undaris.ac.id/public/qris/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">Link Slot</a>
+                    <a class="cyan" href="https://sdgscenter.unair.ac.id/dosen/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d2">Link Slot</a>
                 </div>
                     <div class="top-links-item" id="topActionCustomCare" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d3">
                       <span>Situs Slot</span>
@@ -837,7 +837,7 @@
   <div class="top-popup-content l-customcare-content">
     <ul class="care-list">
         <li class="care-item">
-                <a href="https://ojs.undaris.ac.id/public/qris/" class="care-item-anchor"> 
+                <a href="https://sdgscenter.unair.ac.id/dosen/" class="care-item-anchor"> 
                   <span class="care-icon help-center">
                   </span>
                   Pusat Bantuan
@@ -952,7 +952,7 @@
         </div>
         <div class="lzd-logo-bar">
           <div class="logo-bar-content header-content">
-              <div class="lzd-logo-content"><a href="https://ojs.undaris.ac.id/public/qris/" data-spm="dhome"><img src="https://i.postimg.cc/c4zjfK4J/logogacor.png" alt="Logo Lazada.co.id Toko Online Indonesia"></a></div>
+              <div class="lzd-logo-content"><a href="https://sdgscenter.unair.ac.id/dosen/" data-spm="dhome"><img src="https://i.postimg.cc/c4zjfK4J/logogacor.png" alt="Logo Lazada.co.id Toko Online Indonesia"></a></div>
               <div class="lzd-nav-search " data-spm="search">
                 <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
               </div>
@@ -961,7 +961,7 @@
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
     <div class="lzd-site-menu-nav-container">
         <div class="lzd-site-menu-nav-category">
-            <a href="https://ojs.undaris.ac.id/public/qris/">
+            <a href="https://sdgscenter.unair.ac.id/dosen/">
                 <span class="lzd-site-menu-nav-category-text">Kategori</span>
             </a>
             <div class="lzd-site-menu-nav-menu">
@@ -2039,7 +2039,7 @@
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
     <div class="lzd-site-menu-nav-container">
         <div class="lzd-site-menu-nav-category">
-            <a href="https://ojs.undaris.ac.id/public/qris/">
+            <a href="https://sdgscenter.unair.ac.id/dosen/">
                 <span class="lzd-site-menu-nav-category-text">Kategori</span>
             </a>
             <div class="lzd-site-menu-nav-menu">
@@ -3078,21 +3078,21 @@
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
                 <span class="lzd-menu-labels-item-text">KATANA4D</span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://ojs.undaris.ac.id/public/qris/">
+            <a class="lzd-menu-labels-item" href="https://sdgscenter.unair.ac.id/dosen/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="Pulsa &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1Je4vhRr0gK0jSZFnXXbRRXXa.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-MobileTop1">&#xe768;</i>-->
                         <span class="lzd-menu-labels-item-text">Pulsa &amp; Tagihan</span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://ojs.undaris.ac.id/public/qris/">
+            <a class="lzd-menu-labels-item" href="https://sdgscenter.unair.ac.id/dosen/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="Voucher &amp;" class="lzd-site-nav-menu-iconfont-img" src="//laz-img-cdn.alicdn.com/images/ims-web/TB1x8lvhHj1gK0jSZFuXXcrHpXa.png">
                 </span>
                 <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-Vouchers">&#xe76a;</i>-->
                         <span class="lzd-menu-labels-item-text">Voucher &amp; Diskon</span>
             </a>
-            <a class="lzd-menu-labels-item" href="https://ojs.undaris.ac.id/public/qris/">
+            <a class="lzd-menu-labels-item" href="https://sdgscenter.unair.ac.id/dosen/">
                 <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                     <img alt="KATANA4D SLOT LOGIN" class="lzd-site-nav-menu-iconfont-img" src="//icms-image.slatic.net/images/ims-web/9174453f-455e-4e30-87d2-bd90239e6994.png">
                 </span>
@@ -3366,7 +3366,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
 
   </div>
   <div id="container" style="visibility: visible;">
-    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="SLOT RAFFI AHMAD 88 🪐 Daftar 69 Situs Slot Gacor Server London Resmi Terpercaya Pasti Jackpot" src="https://i.postimg.cc/MKS6Rdbw/photo-2024-09-07-09-05-23.jpg"/></div></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">SLOT RAFFI AHMAD 88 🪐 Daftar 69 Situs Slot Gacor Server London Resmi Terpercaya Pasti Jackpot</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.postimg.cc/MKS6Rdbw/photo-2024-09-07-09-05-23.jpg"/><img class="star" src="https://i.postimg.cc/MKS6Rdbw/photo-2024-09-07-09-05-23.jpg"/><img class="star" src="https://i.postimg.cc/MKS6Rdbw/photo-2024-09-07-09-05-23.jpg"/><img class="star" src="https://i.postimg.cc/MKS6Rdbw/photo-2024-09-07-09-05-23.jpg"/><img class="star" src="https://i.postimg.cc/MKS6Rdbw/photo-2024-09-07-09-05-23.jpg"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">8.832.900 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://ojs.undaris.ac.id/public/qris/">KATANA4D</a><div class="pdp-product-brand__divider"></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price">
+    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="SLOT RAFFI AHMAD 88 🪐 Daftar 69 Situs Slot Gacor Server London Resmi Terpercaya Pasti Jackpot" src="https://i.postimg.cc/MKS6Rdbw/photo-2024-09-07-09-05-23.jpg"/></div></div><div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider"><div class="next-slick-inner next-slick-initialized" draggable="true"><div class="next-slick-list"><div class="next-slick-track"><div style="outline:none;width:52px" class="next-slick-slide next-slick-active next-slick-cloned item-gallery__thumbnail item-gallery__thumbnail_state_active" lazada_pdp_gallery_tpp_track="gallery" main_image_number="1" data-index="0" tabindex="-1"><div class="item-gallery__image-wrapper"></div></div></div></div><div data-role="none" class="next-slick-arrow next-slick-prev outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-left next-icon-medium"></i></div><div data-role="none" class="next-slick-arrow next-slick-next outer medium horizontal disabled" style="display:block"><i class="next-icon next-icon-arrow-right next-icon-medium"></i></div></div></div></div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">SLOT RAFFI AHMAD 88 🪐 Daftar 69 Situs Slot Gacor Server London Resmi Terpercaya Pasti Jackpot</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.postimg.cc/MKS6Rdbw/photo-2024-09-07-09-05-23.jpg"/><img class="star" src="https://i.postimg.cc/MKS6Rdbw/photo-2024-09-07-09-05-23.jpg"/><img class="star" src="https://i.postimg.cc/MKS6Rdbw/photo-2024-09-07-09-05-23.jpg"/><img class="star" src="https://i.postimg.cc/MKS6Rdbw/photo-2024-09-07-09-05-23.jpg"/><img class="star" src="https://i.postimg.cc/MKS6Rdbw/photo-2024-09-07-09-05-23.jpg"/></div><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">8.832.900 Penilaian</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module"><div class="pdp-product-brand"><span class="pdp-product-brand__name">Merek<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://sdgscenter.unair.ac.id/dosen/">KATANA4D</a><div class="pdp-product-brand__divider"></div></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price">
 	
 <p>Slot Raffi Ahmad merupakan link resmi daftar dan login 69 situs slot gacor dengan server london memberikan live rtp tinggi gampang dapat scatter hitam maxwin. Slot raffi ahmad 77 juga menyediakan deposit via qris tanpa potongan mulai dari minimal deposit 10ribu saja.</p>
 
